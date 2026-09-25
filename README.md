@@ -1,6 +1,6 @@
 # Executive Sales Performance & Customer Insights Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_previe.png)
 
 ## 📌 Project Overview
 This project delivers an end-to-end business intelligence solution to analyze retail sales performance, gross revenue, net profit margins, and regional growth trends. Raw transaction records were structured into an optimized **Star Schema** within Power BI Desktop, utilizing custom **DAX time-intelligence measures** and interactive visual layouts to uncover margin leakages and optimize product discounting.
