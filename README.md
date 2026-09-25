@@ -29,16 +29,16 @@ The report decouples transactional data from analytical dimensions to ensure hig
 ```dax
 Total Sales = SUM(fact_sales[Sales])
 
-**###2.net profit**
+### 2.net profit
 Total Profit = SUM(fact_sales[Profit])
 
-**###3.gross profit margine**
+### 3.gross profit margine
 Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 
-**###4.perior month sales**
+### 4.perior month sales
 Sales PM = CALCULATE([Total Sales], PREVIOUSMONTH('Dim_Date'[Date]))
 
-**###5.month over month**
+### 5.month over month
 MoM Sales Growth % = DIVIDE([Total Sales] - [Sales PM], [Sales PM], 0)
 
 
