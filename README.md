@@ -43,4 +43,5 @@ MoM Sales Growth % = DIVIDE([Total Sales] - [Sales PM], [Sales PM], 0)
 
 
 
-git clone [https://github.com/Gangoli2005/Sales-Performance-Customer-Insights-Dashboard.git](https://github.com/Gangoli2005/Sales-Performance-Customer-Insights-Dashboard.git)
+[https://github.com/Gangoli2005/Sales-Performance-Customer-Insights-Dashboard](https://github.com/Gangoli2005/Sales-Performance-Customer-Insights-Dashboard)
+
